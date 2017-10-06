@@ -1,5 +1,7 @@
 # The Lyssal Pagerfanta bundle
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/5be61cb1-fadf-4035-9df1-a3449529b63f/small.png)](https://insight.sensiolabs.com/projects/5be61cb1-fadf-4035-9df1-a3449529b63f)
+
 
 ## Installation
 
