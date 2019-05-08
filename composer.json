@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "white-october/pagerfanta-bundle": "~1.0",
-        "lyssal/pagerfanta": "~0.1"
+        "lyssal/pagerfanta": "~0.2",
+        "white-october/pagerfanta-bundle": "^1.2"
     },
     "autoload":     {
         "psr-0": { "Lyssal\\PagerfantaBundle": "src" }
